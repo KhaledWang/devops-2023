@@ -80,6 +80,8 @@ In order to find the token. You can check the container tab on Docker desktop ap
 2023-02-22 20:14:19      or http://127.0.0.1:8000/?token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
+- TIP: You can add `"--NotebookApp.token=''"` in the CMD to launch Jupyter's Notebook without a token, however, there may be some security risks.
+
 - You can copy and paste the string that appears after `?token=` and insert it into the textfield. You should be able to access Python terminal along with the different packages through Jupyter's Notebook and begin your projects.
 
 ## To import a file into Jupyter's Notebook 
