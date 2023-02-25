@@ -63,6 +63,14 @@ In order to find the token. You can check the container tab on Docker desktop ap
 
 - You can copy and paste the string that appears after `?token=` and insert it into the textfield. You should be able to access Python terminal along with the different packages through Jupyter's Notebook and begin your projects.
 
+## How to attach the container to Visual Studio Code:
+
+- To access any code from within the container using VS Code, you need to install the VS Code extension called "Dev Container." This extension allows you to access any folder or repositories within a Docker container.
+
+- After you finish installing the extension, click on the button in the bottom left corner of the window which is labelled "Open a Remote Window"
+
+- You will get an option to reopen VS Code in container or you may navigate the container and open a folder instead. Happy Coding :)
+
 ## Credits
 
 - KHALED WANGBUESA - 641431021
