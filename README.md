@@ -27,7 +27,7 @@ There are two ways to pull the Dockerfile:
 
 - Enable the Docker Daemon but launching the Docker desktop app.
 
-- Next, pull the Docker image from the Remote Repository using:
+- Next, pull the Docker image from the Remote Repository writing this on the terminal:
 
 `docker pull khaledwangbuesa/data_science`
 
